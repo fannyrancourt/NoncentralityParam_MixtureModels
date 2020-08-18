@@ -1,4 +1,4 @@
-#Estimation of noncentrality parameter for mixture models
+# Estimation of noncentrality parameter for mixture models
 
 For mixture models such as noncentral chi-square, noncentral Fisher, the unbiased estimator takes values outside of the parameter space making it an unadmissible estimator. What other estimator can we consider instead?
 
@@ -16,7 +16,7 @@ Another alternative to the unbiased estimtor is to add some correction term to *
 
 Under quadratic loss, we get the following risk ratio:
 
-![](ing/RiskRatio_Chisq.png)
+![](img/RiskRatio_Chisq.png)
 
 ## Other mixtures models
 
